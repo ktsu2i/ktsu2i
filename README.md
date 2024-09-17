@@ -14,13 +14,13 @@
 ### Connect with me:
 
 <p>
-  <a href="https://twitter.com/kaito_tsu2i" target="blank">
+  <a href="https://twitter.com/kaito_tsu2i">
     <img src="https://skillicons.dev/icons?i=twitter" alt="kaito_tsu2i" />
   </a>
-  <a href="https://instagram.com/kaito_aujla" target="blank">
+  <a href="https://instagram.com/kaito_aujla">
     <img src="https://skillicons.dev/icons?i=instagram" alt="kaito_aujla" />
   </a>
-  <a href="https://linkedin.com/in/kaito-tsutsui-957a90210" target="blank">
+  <a href="https://linkedin.com/in/kaito-tsutsui-957a90210">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="kaito-tsutsui-957a90210" />
   </a>
 </p>
