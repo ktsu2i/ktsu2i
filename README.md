@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Kaito</h1>
-<h3 align="center">I am a Computer Science student at Temple University, Japan Campus.</h3>
+<h3 align="center">Computer Science Student at Temple University, Japan Campus.</h3>
 
 - 🔭 I’m currently working on [Course Manager](https://github.com/ktsu2i/course-manager)
 
