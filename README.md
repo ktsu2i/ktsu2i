@@ -13,22 +13,18 @@
 
 ### Connect with me:
 
-<p>
-  <a href="https://twitter.com/kaito_tsu2i">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://instagram.com/kaito_aujla">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://linkedin.com/in/kaito-tsutsui-957a90210">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+<a href="https://twitter.com/kaito_tsu2i">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a href="https://instagram.com/kaito_aujla">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://linkedin.com/in/kaito-tsutsui-957a90210">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 ### Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,py,fastapi,ruby,rails,go,java,kotlin,c,git,mysql,postgres,mongo,sqlite,firebase,supabase,docker&perline=8)](https://skillicons.dev)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktsu2i&layout=compact&theme=dark" alt="ktsu2i" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktsu2i&layout=compact&theme=dark" alt="ktsu2i" />
