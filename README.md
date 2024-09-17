@@ -13,13 +13,13 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/kaito_tsu2i">
+<a href="https://twitter.com/kaito_tsu2i" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
-<a href="https://instagram.com/kaito_aujla">
+<a href="https://instagram.com/kaito_aujla" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<a href="https://linkedin.com/in/kaito-tsutsui-957a90210">
+<a href="https://linkedin.com/in/kaito-tsutsui-957a90210" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
