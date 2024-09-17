@@ -90,5 +90,5 @@
 </p>
 
 <p align="center">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktsu2i&layout=compact&theme=dark" alt="ktsu2i" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktsu2i&layout=compact&theme=dark" alt="ktsu2i" />
 </p>
