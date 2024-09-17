@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaito</h1>
-<h3 align="center">Computer Science Student at Temple University, Japan Campus.</h3>
+<h3 align="center">Computer Science Student at Temple University, Japan Campus</h3>
 
 - 👨‍💻 I'm a senior at Temple University, Japan Campus
 
@@ -11,8 +11,9 @@
 
 - 📫 You can reach out to me via **kaito.tsu2i@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Connect with me:
+
+<p>
   <a href="https://twitter.com/kaito_tsu2i" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="kaito_tsu2i" />
   </a>
@@ -24,7 +25,7 @@
   </a>
 </p>
 
-<h3 align="left">Skills:</h3>
+### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,py,fastapi,ruby,rails,go,java,kotlin,c,git,mysql,postgres,mongo,sqlite,firebase,supabase,docker&perline=8)](https://skillicons.dev)
 
