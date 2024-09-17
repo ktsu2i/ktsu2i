@@ -25,7 +25,7 @@
   </a>
 </p>
 
-### Skills
+### Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,py,fastapi,ruby,rails,go,java,kotlin,c,git,mysql,postgres,mongo,sqlite,firebase,supabase,docker&perline=8)](https://skillicons.dev)
 
