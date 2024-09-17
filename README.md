@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaito</h1>
 <h3 align="center">Computer Science Student at Temple University, Japan Campus.</h3>
 
+- 👨‍💻 I'm a senior at Temple University, Japan Campus
+
 - 🔭 I’m currently working on [Course Manager](https://github.com/ktsu2i/course-manager)
 
 - 🌱 I’m currently learning **Ruby and Golang**
@@ -22,7 +24,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,py,fastapi,ruby,rails,go,java,kotlin,c,git,mysql,postgres,mongo,sqlite,firebase,supabase,docker&perline=8)](https://skillicons.dev)
 
