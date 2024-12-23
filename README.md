@@ -3,8 +3,6 @@
 
 - 👨‍💻 I'm a senior at Temple University, Japan Campus
 
-- 🔭 I’m currently working on [Course Manager](https://github.com/ktsu2i/course-manager)
-
 - 🌱 I’m currently learning **Ruby and Golang**
 
 - 📝 I write articles on [Zenn](https://zenn.dev/ktsu2i)
