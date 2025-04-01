@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaito</h1>
-<h3 align="center">Computer Science Student at Temple University, Japan Campus</h3>
+<h3 align="center">Software Enginner at Bengo4.com</h3>
 
-- 👨‍💻 I'm a senior at Temple University, Japan Campus
+- 👨‍💻 I work as a software engineer at [Bengo4.com](https://www.bengo4.com/corporate/en/)
 
-- 🌱 I’m currently learning **Ruby and Golang**
+- 🌱 My favorite languages are **Go, Ruby, and TypeScript**
 
 - 📝 I write articles on [Zenn](https://zenn.dev/ktsu2i)
 
