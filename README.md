@@ -13,4 +13,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,py,fastapi,ruby,rails,go,java,kotlin,c,git,mysql,postgres,mongo,sqlite,firebase,supabase,docker&perline=8)](https://skillicons.dev)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktsu2i&layout=compact&theme=dark" alt="ktsu2i" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktsu2i&layout=compact&theme=dark&foo" alt="ktsu2i" />
