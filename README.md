@@ -5,7 +5,7 @@
 
 - 🌱 My favorite languages are **Go, Ruby, and TypeScript**
 
-- 📝 I write articles on [Zenn](https://zenn.dev/ktsu2i)
+- 📝 I write articles on [Zenn](https://zenn.dev/ktsu2i) in Japanese
 
 - 📫 You can reach out to me via **kaito.tsu2i@gmail.com**
 
