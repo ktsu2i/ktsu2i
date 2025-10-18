@@ -3,14 +3,16 @@
 
 - 👨‍💻 I work as a software engineer at [Bengo4.com](https://www.bengo4.com/corporate/en/)
 
-- 🌱 My favorite languages are **Go, Ruby, and TypeScript**
+- 🌱 My favorite language is **Go**
 
 - 📝 I write articles on [Zenn](https://zenn.dev/ktsu2i) in Japanese
 
-- 📫 You can reach out to me via **kaito.tsu2i@gmail.com**
+- 📫 You can reach out to me via kaito.tsu2i@gmail.com
 
 ### Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,py,fastapi,ruby,rails,go,java,kotlin,c,git,mysql,postgres,mongo,sqlite,firebase,supabase,docker&perline=8)](https://skillicons.dev)
+[![Strong Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,vue,nuxtjs,nodejs,py,fastapi,ruby,rails,java,kotlin,c,git,mysql,redis,docker&perline=7)](https://skillicons.dev)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktsu2i&layout=compact&theme=dark&foo" alt="ktsu2i" />
