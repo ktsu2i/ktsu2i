@@ -15,4 +15,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,vue,nuxtjs,nodejs,py,fastapi,ruby,rails,java,kotlin,c,git,mysql,redis,docker&perline=7)](https://skillicons.dev)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktsu2i&layout=compact&theme=dark&foo" alt="ktsu2i" />
+<img src="https://githubcard.com/ktsu2i.svg?d=rUyLNgyf" alt="ktsu2i" />
