@@ -3,7 +3,7 @@
 
 - 👨‍💻 I work as a software engineer at [Bengo4.com](https://www.bengo4.com/corporate/en/)
 - 🐹 My favorite language is **Go**
-- 📝 Vist my website [ktsu2i.dev](https://ktsu2i.dev/en/)
+- 📝 Visit my website [ktsu2i.dev](https://ktsu2i.dev/en/)
 - 📫 You can reach out to me via kaito.tsu2i@gmail.com
 
 ### 🛠️ Tech Stack
